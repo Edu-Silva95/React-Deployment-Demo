@@ -5,10 +5,10 @@ This project was built with and for the "React - The Complete Guide 2025 (incl. 
 
 The topics of the lectures for this project:
 
--Module Introduction
--Deployment Steps
--Understanding Lazy Loading
--Adding Lazy Loading
--Building the Code For Production
--Deployment Example
--Server-side Routing & Required Configuration
+- Module Introduction
+- Deployment Steps
+- Understanding Lazy Loading
+- Adding Lazy Loading
+- Building the Code For Production
+- Deployment Example
+- Server-side Routing & Required Configuration
